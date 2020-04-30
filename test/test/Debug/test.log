@@ -1,0 +1,19 @@
+﻿  actor.cpp
+C:\Users\iceco\Desktop\coding\games\test\test\spritecomponent.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  collisioncomponent.cpp
+  component.cpp
+  game.cpp
+C:\Users\iceco\Desktop\coding\games\test\test\spritecomponent.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\iceco\Desktop\coding\games\test\test\game.cpp(21,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iceco\Desktop\coding\games\test\test\game.cpp(21,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  movecomponent.cpp
+  player.cpp
+C:\Users\iceco\Desktop\coding\games\test\test\spritecomponent.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\iceco\Desktop\coding\games\test\test\player.cpp(26,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iceco\Desktop\coding\games\test\test\player.cpp(26,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  playermove.cpp
+C:\Users\iceco\Desktop\coding\games\test\test\spritecomponent.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  spritecomponent.cpp
+C:\Users\iceco\Desktop\coding\games\test\test\SpriteComponent.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  test.vcxproj -> C:\Users\iceco\Desktop\coding\games\test\Debug\test.exe
